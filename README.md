@@ -21,12 +21,10 @@ Verder zaten de grootste uitdagingen in:
    - De gebruiker kan bijvoorbeeld type fouten maken en meerdere letters invoeren
    - Een gebruikers kan meteen een woord invoeren
 
-  Een vervolgopdracht zou kunnen zijn om aan de gebruiker terug te koppelen:
-   - Graag maximaal één letter invoeren
-   - Een code schrijven die beiden input kan accepteren en deze direct toetst.  
+ Uiteindelijk heb ik de gebruiker geinstrueerd hoe hij de input moet verzorgen. 
 
 - Het vervangen ven een underscore met een letter als de letter in het woord zat. 
-  Het duurde even maar de sleutel zal hem in: geraden[count] = ele
+  Het duurde even maar de sleutel zat hem in: geraden[count] = ele
   
 
 
