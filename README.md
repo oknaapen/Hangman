@@ -8,7 +8,6 @@ het woord nog niet goed is geraden, dan hang je en is het Game over.
 Ik heb deze oefening gedaan nadat ik de basiscursussen van python had afgerond.
 Na het volgen van de cursussen en alle thema's -/ onderdelen van Python aan bod zijn gekomen, ben ik mijn kennis en vaardigheden van python getoetst met dit spel. 
 
-In totaal ben ik denk ik 12,5 uur bezig geweest met het coderen en toetsen van het progamma. 
 Ik heb het spel zo volledig mogelijk proberen te schrijven. Het belangrijkste wat ik heb geleerd is dat je je moet inleven in de gebruiker. 
 Wat kan de gebruiker allemaal voor inputs geven: bijvoorbeeld cijfers, of meerdere letters in '1 keer'of meteen al een woord. 
 Je kunt de code hierop aanpassen, maar je kunt ook gewoon de gebruiker zelf instructies geven. 
