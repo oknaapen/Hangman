@@ -1,12 +1,12 @@
 Een van de eerste (grote) opdrachten die ik heb geprobeerd is het schrijven van code voor het spelletje Galgje. 
 Het doel van het spel is om een willekeurig (Engels) woord te raden. 
 Dit doe je door iedere beurt een letter te noemen die mogelijk in het woord zit. 
-Naarmate je meer letters goed gokt, wordt het steeds duielijker wat het woord is dat geraden moet worden. 
+Naarmate je meer letters goed gokt, wordt het steeds duidelijker wat het woord is dat geraden moet worden. 
 Hoe meer letters je verkeerd gokt, hoe sneller je aan de galg hangt. Als je in alle beurten (8 stuks)
 het woord nog niet goed is geraden, dan hang je en is het Game over. 
 
 Ik heb deze oefening gedaan nadat ik de basiscursussen van python had afgerond.
-Na het volgen van de cursussen en alle thema's -/ onderdelen van Python aan bod zijn gekomen, ben ik mijn kennis en vaardigheden van python getoetst met dit spel. 
+Na het volgen van de cursussen en alle thema's -/ onderdelen van Python aan bod zijn gekomen, ben ik mijn kennis en vaardigheden van python gaan toetsen met dit spel. 
 
 Ik heb het spel zo volledig mogelijk proberen te schrijven. Het belangrijkste wat ik heb geleerd is dat je je moet inleven in de gebruiker. 
 Wat kan de gebruiker allemaal voor inputs geven: bijvoorbeeld cijfers, of meerdere letters in '1 keer'of meteen al een woord. 
